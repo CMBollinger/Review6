@@ -16,5 +16,9 @@
 
 
 /* Column Styles */
-
+p {
+   column-count: 3;
+   column-gap: 20px;
+   column-rule: 1px solid black;
+}
 
